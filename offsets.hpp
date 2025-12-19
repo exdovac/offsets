@@ -65,7 +65,7 @@ namespace offsets {
     inline constexpr uintptr_t FrameSizeY = 0x544;
     inline constexpr uintptr_t FrameVisible = 0x5B9;
     inline constexpr uintptr_t GameId = 0x190;
-    inline constexpr uintptr_t GameLoaded = 0x600;
+    inline constexpr uintptr_t GameLoaded = 0x638;
     inline constexpr uintptr_t Gravity = 0x9B0;
     inline constexpr uintptr_t Health = 0x194;
     inline constexpr uintptr_t HealthDisplayDistance = 0x318;
